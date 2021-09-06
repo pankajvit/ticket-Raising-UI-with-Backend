@@ -36,7 +36,7 @@
             <div class="header-mobile__bar">
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="index.php">
                             <img src="images/icon/logo.jpeg" alt="CoolAdmin" />
                         </a>
                         <button class="hamburger hamburger--slider" type="button">
@@ -51,11 +51,11 @@
                 <div class="container-fluid">
                     <ul class="navbar-mobile__list list-unstyled">
                         <li>
-                            <a class="js-arrow" href="index.html">
+                            <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                             <!-- <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
                                 <li>
-                                    <a href="index.html">Dashboard 1</a>
+                                    <a href="index.php">Dashboard 1</a>
                                 </li>
                                 <li>
                                     <a href="index2.html">Dashboard 2</a>
@@ -73,15 +73,15 @@
                                 <i class="fa fa-gears"></i>Issue</a>
                         </li>
                         <li>
-                            <a href="customer_details.html">
+                            <a href="customer_details.php">
                                 <i class="fa fa-users" aria-hidden="true"></i>Customer</a>
                         </li>
                         <li>
-                            <a href="payments.html">
+                            <a href="payments.php">
                                 <i class="fa fa-rupee"></i>Payment</a>
                         </li>
                         <li>
-                            <a href="technician_details.html">
+                            <a href="technician_details.php">
                                 <i class="fa fa-male"></i>Technician</a>
                         </li>
                     </ul>
@@ -101,11 +101,11 @@
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
                         <li class="active has-sub">
-                            <a class="js-arrow" href="index.html">
+                            <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                             <!-- <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a href="index.html">Dashboard 1</a>
+                                    <a href="index.php">Dashboard 1</a>
                                 </li>
                                 <li>
                                     <a href="index2.html">Dashboard 2</a>
@@ -123,15 +123,15 @@
                                 <i class="fa fa-gears"></i>Issue</a>
                         </li>
                         <li>
-                            <a href="customer_details.html">
+                            <a href="customer_details.php">
                                 <i class="fa fa-users"></i>Customer</a>
                         </li>
                         <li>
-                            <a href="payments.html">
+                            <a href="payments.php">
                                 <i class="fa fa-rupee"></i>Payment</a>
                         </li>
                         <li>
-                            <a href="technician_details.html">
+                            <a href="technician_details.php">
                                 <i class="fa fa-male"></i>Technician</a>
                         </li>
                     </ul>

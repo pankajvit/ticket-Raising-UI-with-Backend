@@ -42,7 +42,7 @@
             <div class="header-mobile__bar">
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="index.php">
                             <img src="images/icon/logo.jpeg" alt="Shristi_enterprises_logo" />
                         </a>
                         <button class="hamburger hamburger--slider" type="button">
@@ -57,23 +57,23 @@
                 <div class="container-fluid">
                     <ul class="navbar-mobile__list list-unstyled">
                         <li class="has-sub">
-                            <a class="js-arrow" href="index.html">
+                            <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="issue.html">
+                            <a href="issue.php">
                                 <i class="fa fa-gears"></i>Issue</a>
                         </li>
                         <li>
-                            <a href="customer_details.html">
+                            <a href="customer_details.php">
                                 <i class="fa fa-users"></i>Customer</a>
                         </li>
                         <li>
-                            <a href="payments.html">
+                            <a href="payments.php">
                                 <i class="fa fa-rupee"></i>Payment</a>
                         </li>
                         <li>
-                            <a href="technician_details.html">
+                            <a href="technician_details.php">
                                 <i class="fa fa-male"></i>Technician</a>
                         </li>
                     </ul>
@@ -97,19 +97,19 @@
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="issue.html">
+                            <a href="issue.php">
                                 <i class="fa fa-gears"></i>Issue</a>
                         </li>
                         <li>
-                            <a href="customer_details.html">
+                            <a href="customer_details.php">
                                 <i class="fa fa-users"></i>Customer</a>
                         </li>
                         <li>
-                            <a href="payments.html">
+                            <a href="payments.php">
                                 <i class="fa fa-rupee"></i>Payment</a>
                         </li>
                         <li class="active">
-                            <a href="technician_details.html">
+                            <a href="technician_details.php">
                                 <i class="fa fa-male"></i>Technician</a>
                         </li>
                     </ul>
